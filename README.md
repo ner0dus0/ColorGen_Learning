@@ -5,8 +5,8 @@
 @Last modified time: 2017-10-01T10:02:29+05:30
 -->
 
-**This project does not belong to me, but has been cloned as I learn more about git. ALl credit to the original author 
--ner0dus0
+<i><h6>**This project does not belong to me, but has been cloned as I learn more about git. All credit to the original author 
+-ner0dus0</H2>
 
 
 # Chroma Gen
